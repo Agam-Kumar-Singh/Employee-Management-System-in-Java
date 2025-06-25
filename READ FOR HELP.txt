@@ -1,0 +1,13 @@
+1 .    To Start MySQL services:
+		a. Windows+R
+		b. type services.msc
+		c. Search for MySQL Service and Start it.
+
+2 .    Open the Folder EMS in VS Code
+
+3 .    In bottom Left Click->Settings -> Command pallete -> New 
+	Java Project to show the EMS as Java project on VSCode.
+
+4 .	Don't Forget to add jar File in Referenced Library Option in Step 3 or in Java Project Option(after Step 3) Right 	Click and Choose Configure Class Path->Libraries and add there.
+
+5 . 	Most important Debug The program not Run for applying changes .
